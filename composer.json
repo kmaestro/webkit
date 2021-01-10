@@ -1,0 +1,12 @@
+{
+    "name": "kmaestro/webkit",
+    "authors": [
+        {
+            "name": "Dima",
+            "email": "polishuk1003@gmail.com"
+        }
+    ],
+    "require": {
+        "kmaestro/gtk": "^0.0.4"
+    }
+}
